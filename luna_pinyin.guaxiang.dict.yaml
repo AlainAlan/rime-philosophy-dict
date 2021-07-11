@@ -1,0 +1,76 @@
+# Rime dictionary
+# encoding: utf-8
+# 基於：https://ctext.org/book-of-changes
+# 整理：Alain
+
+---
+name: luna_pinyin.guaxiang
+version: "2021.07.11"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+䷀	qian gua
+䷁	kun gua
+䷂	zhun gua
+䷃	meng gua
+䷄	xu gua
+䷅	song gua
+䷆	shi gua
+䷇	bi gua
+䷈	xiao chu gua
+䷉	lv gua
+䷊	tai gua
+䷋	pi gua
+䷌	tong ren gua
+䷍	da you gua
+䷎	qian gua
+䷏	yu gua
+䷐	sui gua
+䷑	gu gua
+䷒	lin gua
+䷓	guan gua
+䷔	shi he gua
+䷕	bi gua
+䷖	bo gua
+䷗	fu gua
+䷘	wu wang gua
+䷙	da chu gua
+䷚	yi gua
+䷛	da guo gua
+䷜	kan gua
+䷝	li gua
+䷞	xian gua
+䷟	heng gua
+䷠	dun gua
+䷡	da zhuang gua
+䷢	jin gua
+䷣	ming yi gua
+䷤	jia ren gua
+䷥	kui gua
+䷦	jian gua
+䷧	jie gua
+䷨	sun gua
+䷩	yi gua
+䷪	guai gua
+䷫	gou gua
+䷬	cui gua
+䷭	sheng gua
+䷮	kun gua
+䷯	jing gua
+䷰	ge gua
+䷱	ding gua
+䷲	zhen gua
+䷳	gen gua
+䷴	jian gua
+䷵	gui mei gua
+䷶	feng gua
+䷷	lv gua
+䷸	xun gua
+䷹	dui gua
+䷺	huan gua
+䷻	jie gua
+䷼	zhong fu gua
+䷽	xiao guo gua
+䷾	ji ji gua
+䷿	wei ji gua
