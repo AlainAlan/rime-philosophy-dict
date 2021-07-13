@@ -17,6 +17,16 @@
   - 資料來源：[中国历代皇帝列表](http://xh.5156edu.com/page/z2295m3375j18869.html)
   - 使用MS Word簡轉繁，然後人工校對（如后／後、寜／甯以及錯別字等等）
   - 校對以《王力古漢語字典》附錄爲準，不在其內的則參考ctext、維基百科
+- philosophers：国内哲学工作者姓名
+  - 来自cnki
+  - 2010-2020年
+  - 每年哲学类核心期刊（被引降序）前500篇论文
+  - 筛选了发过三篇论文的学者（`羡慕`）
+- philosophy
+  - （2021-07-13更新部分）与`philosophers`来源相同
+    - 筛选了这些期刊的一千多个关键词
+    - 使用VOSviewer筛选，输出Pajek的net文件用python略微处理
+
 
 ## 在路上
 
@@ -24,8 +34,8 @@
 - [ ] scholars：中國歷史人物之人名
 - [ ] literati： [西儒名姓资](https://alainalan.github.io/Aid-to-the-Names-and-Surnames-of-Western-Literati/)中的人名
 - [ ] philosophes：哲學家姓名
-- [ ] philosophers: 國內哲學工作者姓名
-- [ ] philosophy：哲學術語／概念／流派／著作等等
+- [x] philosophers: 國內哲學工作者姓名
+- [ ] philosophy：哲學術語／概念／流派／著作等等（部分完成）
 
 
 ## 数据说明
