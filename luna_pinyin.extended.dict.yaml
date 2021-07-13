@@ -11,4 +11,6 @@ import_tables:
   - luna_pinyin.ctext
   - luna_pinyin.guaxiang
   - luna_pinyin.monarchies
+  - luna_pinyin.philosophers
+  - luna_pinyin.philosophy
 ...
