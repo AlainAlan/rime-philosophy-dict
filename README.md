@@ -26,6 +26,23 @@
   - （2021-07-13更新部分）与`philosophers`来源相同
     - 筛选了这些期刊的一千多个关键词
     - 使用VOSviewer筛选，输出Pajek的net文件用python略微处理
+- nianhao
+  - 历代年号
+  - 基于[China Biographical Database Project (CBDB)](https://projects.iq.harvard.edu/cbdb)
+  - 假装引用了：[How to Cite CBDB | China Biographical Database Project (CBDB)](https://projects.iq.harvard.edu/cbdb/how-cite-cbdb)
+  - License：[Creative Commons — 署名-非商业性使用-相同方式共享 4.0 国际 — CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
+- temples
+  - 寺庙与书院
+  - ibid
+- persons
+  - 中国历史人物
+  - ibid
+- literati
+  - [西儒名姓资](https://alainalan.github.io/Aid-to-the-Names-and-Surnames-of-Western-Literati/)
+- ctext.titles
+  - 来自https://api.ctext.org/gettexttitles?if=zh
+  - https://ctext.org/
+  - 建议为大佬捐款：https://ctext.org/help-us
 
 
 ## 在路上
