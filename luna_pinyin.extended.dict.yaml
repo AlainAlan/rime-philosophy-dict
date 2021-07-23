@@ -13,4 +13,9 @@ import_tables:
   - luna_pinyin.monarchies
   - luna_pinyin.philosophers
   - luna_pinyin.philosophy
+  - luna_pinyin.nianhao
+  - luna_pinyin.temples
+  - luna_pinyin.persons
+  - luna_pinyin.literati
+  - luna_pinyin.ctext_titles
 ...
