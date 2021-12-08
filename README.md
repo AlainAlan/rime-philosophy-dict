@@ -44,16 +44,23 @@
   - https://ctext.org/
   - 建议为大佬捐款：https://ctext.org/help-us
 
+## 繁简转换问题
 
-## 在路上
+有时候rime基于的opencc在转换人名的时候会出问题，例如汎->泛、旂->旗等。
+需要在rime**程序文件夹**下data/opencc中添加`TSCharacters_custom.txt`：
 
-- [ ] nianhao：年號
-- [ ] scholars：中國歷史人物之人名
-- [ ] literati： [西儒名姓资](https://alainalan.github.io/Aid-to-the-Names-and-Surnames-of-Western-Literati/)中的人名
-- [ ] philosophes：哲學家姓名
-- [x] philosophers: 國內哲學工作者姓名
-- [ ] philosophy：哲學術語／概念／流派／著作等等（部分完成）
+```
+徐乾學	徐乾学
+王汎森	王汎森
+薛應旂	薛应旂
+```
 
+如此自定义繁简转换（本词库主要基于繁体）
+
+- [開放中文轉換 Open Chinese Convert (OpenCC)](https://opencc.byvoid.com/)
+- [BYVoid/OpenCC: Conversion between Traditional and Simplified Chinese](https://github.com/BYVoid/OpenCC)
+
+另：今天（2021-12-08）删掉了拼音重码太多的两字人名，同一拼音随机保留十个，避免翻页太累。
 
 ## 数据说明
 
