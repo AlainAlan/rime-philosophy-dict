@@ -43,6 +43,14 @@
   - 来自https://api.ctext.org/gettexttitles?if=zh
   - https://ctext.org/
   - 建议为大佬捐款：https://ctext.org/help-us
+- ctext.medicines
+  - 为了方便个人输入西药名称，从[国家医保局 人力资源社会保障部关于印发《国家基本医疗保险、工伤保险和生育保险药品目录（2020年）》的通知](http://www.gov.cn/zhengce/zhengceku/2020-12/28/content_5574062.htm)下载了2020年的医保目录pdf
+  - 将pdf转换为excel之后，简单整理后改为yaml词库
+  - 这一词库没有列入extended（因为不属于哲学相关内容），可以手动加入
+- ctext.TCM
+  - 同上，是中药版本
+  - 加入中成药乃至中药注射液不代表个人立场，仅代表这些药物在现实生活中被实际使用（实然），而不涉及对相关药物的药效和安全性的评价
+
 
 ## 繁简转换问题
 
